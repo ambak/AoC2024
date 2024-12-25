@@ -1,0 +1,64 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Gate { name1: "sjr", op: "OR", name2: "tck", resname: "z14" }
+Gate { name1: "dfb", op: "XOR", name2: "bfn", resname: "hbk" }
+c-d 187 6
+Gate { name1: "sjr", op: "OR", name2: "tck", resname: "hbk" }
+Gate { name1: "dfb", op: "XOR", name2: "bfn", resname: "z14" }
+15
+16
+17
+18
+Gate { name1: "y18", op: "AND", name2: "x18", resname: "z18" }
+Gate { name1: "grp", op: "XOR", name2: "fgr", resname: "kvn" }
+c-d 84 138
+Gate { name1: "y18", op: "AND", name2: "x18", resname: "kvn" }
+Gate { name1: "grp", op: "XOR", name2: "fgr", resname: "z18" }
+19
+20
+21
+22
+23
+Gate { name1: "dvw", op: "AND", name2: "rpg", resname: "z23" }
+Gate { name1: "dvw", op: "XOR", name2: "rpg", resname: "dbb" }
+c-d 35 55
+Gate { name1: "dvw", op: "AND", name2: "rpg", resname: "dbb" }
+Gate { name1: "dvw", op: "XOR", name2: "rpg", resname: "z23" }
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+c-d 177 999
+Gate { name1: "mqf", op: "XOR", name2: "cvh", resname: "z34" }
+Gate { name1: "x34", op: "XOR", name2: "y34", resname: "tfn" }
+Gate { name1: "cht", op: "OR", name2: "mkv", resname: "mqf" }
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+cvh,dbb,hbk,kvn,tfn,z14,z18,z23
